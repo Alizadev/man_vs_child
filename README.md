@@ -8,7 +8,7 @@ beat down kids with pillow
 ![alt text](https://github.com/Alizadev/man_vs_child/blob/main/Screenshot%202023-09-17%20175721.png "#1")
 
 # Reference
-https://github.com/Alizadev/man_vs_child/blob/main/real-life-reference.mp4
+https://github.com/Alizadev/man_vs_child/blob/main/real-life-reference.mov
   
 # License
 `Attribution-NonCommercial-ShareAlike 4.0 International`<br>
